@@ -1,4 +1,4 @@
 name: BungeeCore
 version: 1.0
-main: me.justicepro.bungeecore.Plugin
+main: me.justicepro.bungeecore.BungeeCore
 author: JusticePro
